@@ -1,0 +1,3 @@
+nopCommerce is an open source e-commerce solution (ASP.NET 3.5) that contains both a catalog frontend and an administration tool backend. nopCommerce is a fully customizable shopping cart. It's stable and highly usable. From downloads to documentation, nopCommerce.com offers a comprehensive base of information, resources, and support to the nopCommerce community. nopCommerce is new but very popular open source e-commerce solution. nopCommerce is available for free.
+
+For more info go to http://www.nopCommerce.com
